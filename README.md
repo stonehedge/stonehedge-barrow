@@ -1,7 +1,7 @@
 Stonehedge Cookbook: Barrow
 ===========================
 
-Use this Chef Cookbook to configure the Stonehedge Barrow instances.
+Use this Chef Cookbook to configure Stonehedge Barrow instances.
 
 
 Components
